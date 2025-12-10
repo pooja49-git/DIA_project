@@ -2,8 +2,6 @@
 
 ## Authors
 - Pooja Naveen Poonia (M24CSA020)
-- Pranjal Malik (M24CSA021)
-- Prathmesh Chintamani Gosavi (M24CSA023)
 
 **Course**: CSL7320: Digital Image Analysis, AY 2024-25, Semester II
 
